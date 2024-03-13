@@ -1,7 +1,14 @@
 # Cyber Security Learning Notes
 
-## What is it?
-Centralized location for cyber security notes and learning resources.
+## Content and purpose
 
-## Purpose
-Server as a hub for guides, tools, references, and methodologies.
+The intention of this repository is to server as a hub for cyber security learning resources. Within this repo you will find links and references to:
+- Learning platforms
+- Guides
+- Tools
+- Payload lists
+- Methodologies
+
+## Topics
+- Web Applications
+- Mobile Applications
